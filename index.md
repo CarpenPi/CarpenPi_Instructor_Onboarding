@@ -22,7 +22,7 @@ permalink: index.html  # Is the only page that doesn't follow the pattern /:path
 
 > ## Prerequisites
 >
-> FIXME
+> Although this onboarding is aimed at certified Carpentry instructors it would benefit anybody that will be involved in the delivery of CarpenPi type workshops. It would thus be beneficial to have experience in hosting, organising, instructing or helping with workshops.
 {: .prereq}
 
 {% include links.md %}
