@@ -1,7 +1,5 @@
 # CarpenPi Instructor Onboarding
-
-![Carpentries Offline]({{ site-baseurl }}/assets/img/OFFLINE.svg)
-
+![Carpentries Offline](/assets/img/OFFLINE.svg)
 ## Contributing
 
 We welcome all contributions to improve the lesson! Maintainers will do their best to help you if you have any
