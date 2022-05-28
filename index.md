@@ -5,7 +5,7 @@ permalink: index.html  # Is the only page that doesn't follow the pattern /:path
 ---
 <p>
 
-  This is a setup manual for instructors delivering Carpentry workshops using <a href="https://github.com/CarpenPi">CarpenPi</a>. 
+  This is a setup manual for instructors delivering Carpentry workshops using <a href="https://github.com/CarpentriesOffline">CarpentriesOffline</a>. 
   It is aimed at anyone interested in delivering software workshops in Low-to-Middle-Income Countries. 
   In particular, those who are delivering training in locations without reliable external internet access. 
 
